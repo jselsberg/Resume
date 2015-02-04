@@ -3,6 +3,29 @@ body{
 	margin: 25px 50px;
 }
 
+a:link{
+	text-decoration: none;
+	color: #1A1A66;
+}
+
+a:visited{
+	color: #1A1A66;
+}
+
+a:hover{
+	color: #666666;
+}
+
+div.top{
+	background-color: #333333;
+	color: #CCCCCC;
+	font-family: "Garamond";
+}
+
+div.home{
+	float: left;
+}
+
 img.WUlogo{ 
 	height: 90px;
 	width: 90px;
@@ -41,8 +64,8 @@ img.Dynamo{
 }
 
 img.YMCA{
-	height: 90px;
-	width: 90px;
+	height: 100px;
+	width: 100px;
 	float: right;
 	margin-right: 20%;
 }
