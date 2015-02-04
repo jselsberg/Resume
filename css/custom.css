@@ -1,0 +1,50 @@
+/* custom css */
+body{
+	margin: 25px 50px;
+}
+
+img.WUlogo{ 
+	height: 90px;
+	width: 90px;
+	float: right;
+	margin-right: 20%;
+}
+
+img.EdinLogo{
+	height: 90px;
+	width: 90px;
+	float: right;
+	margin-top: -30px;
+	margin-right: 20%;
+}
+
+img.DCL{
+	height: 100px;
+	width: 100px;
+	float: right;
+	margin-top: 20px;
+	margin-right: 20%;
+}
+
+img.Methodist{
+	height: 90px;
+	width: 180px;
+	float: right;
+	margin-right: 15%;
+}
+
+img.Dynamo{
+	height: 90px;
+	width: 90px;
+	float: right;
+	margin-right: 20%;
+}
+
+img.YMCA{
+	height: 90px;
+	width: 90px;
+	float: right;
+	margin-right: 20%;
+}
+
+
